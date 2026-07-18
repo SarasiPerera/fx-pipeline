@@ -1,5 +1,7 @@
 # Sri Lanka FX Rate ETL Pipeline & Dashboard
 
+Live Demo : https://fx-pipeline-esgftf4wo7wummmsxaugqn.streamlit.app/
+
 An automated pipeline that pulls daily USD/LKR, GBP/LKR, and EUR/LKR
 exchange rates, validates and flags anomalies, loads them into SQLite,
 and visualizes trends in a Streamlit dashboard.
